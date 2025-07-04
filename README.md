@@ -19,8 +19,6 @@ Character-level bigram transformer trained on the works of Shakespeare.
 *Python (Cython planned)*  
 Simulates ray propagation and rendering.
 
----
-
 ## 🧰 Skills
 
 **Languages:** Python, Java, C/C++, SQL  
