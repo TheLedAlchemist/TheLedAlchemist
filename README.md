@@ -1,16 +1,29 @@
-## Hi there 👋
+# Matthew Gill
 
-<!--
-**TheLedAlchemist/TheLedAlchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚛️ Machine Learning Researcher | Computer Science & Mathematics at NC State 
 
-Here are some ideas to get you started:
+I'm an undergraduate researcher working in machine learning, optimization, and neuromorphic computing.
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+**🧠 Growing Neural Networks (N3)**  
+*JAX, HPC, Symbolic Regression, arXiv:2501.18012*  
+Explores dynamic resizing of neural networks during training. Benchmarked on physics-based datasets.  
+
+**📝 Bigram Language Model**  
+*PyTorch, Transformers*  
+Character-level bigram transformer trained on the works of Shakespeare.  
+
+**🎯 Graphical Raytracer**  
+*Python (Cython planned)*  
+Simulates ray propagation and rendering.
+
+---
+
+## 🧰 Skills
+
+**Languages:** Python, Java, C/C++, SQL  
+**Frameworks:** PyTorch, JAX, HuggingFace, Streamlit  
+**Tools:** Git, Docker, Jenkins, CUDA Devkit
+**Technologies:** CUDA, HPC (MPI, LSF)
