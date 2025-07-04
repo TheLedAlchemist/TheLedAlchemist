@@ -1,4 +1,4 @@
-# Matthew Gill
+# Matthew
 
 ⚛️ Machine Learning Researcher | Computer Science & Mathematics at NC State 
 
