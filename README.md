@@ -1,6 +1,4 @@
-# Matthew
-
-⚛️ Machine Learning Researcher | Computer Science & Mathematics at NC State 
+# ⚛️ Machine Learning Researcher | Computer Science & Mathematics at NC State 
 
 I'm an undergraduate researcher working in machine learning, optimization, and neuromorphic computing.
 
