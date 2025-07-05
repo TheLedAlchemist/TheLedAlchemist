@@ -18,5 +18,6 @@ Simulates ray propagation and rendering.
 
 **Languages:** Python, Java, C/C++, SQL  
 **Frameworks:** PyTorch, JAX, HuggingFace, Streamlit  
-**Tools:** Git, Docker, Jenkins, CUDA Devkit
+**Tools:** Git, Docker, Jenkins
 **Technologies:** CUDA, HPC (MPI, LSF)
+
